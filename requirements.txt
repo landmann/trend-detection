@@ -1,0 +1,13 @@
+This file requires the following python packages:
+     * pillow
+     * pyenchant
+     * pytesseract
+     * pytorch
+     * pyocr
+     * opencv-python
+     * torchvision
+       
+
+
+
+

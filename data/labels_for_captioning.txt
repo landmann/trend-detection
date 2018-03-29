@@ -1,0 +1,6 @@
+quartz/africa_inc.png 1
+quartz/china_neutral.png 0
+quartz/chinese_dec.png -1
+quartz/donations_inc.png 1
+scraped_nathan/line_graph_169.jpg 1
+scraped_nathan/line_graph_145.jpg 0
