@@ -5,7 +5,6 @@
 
 Input types:
 * Single line graphs
-* Scatter Plots
 
 Outputs (Labels)
 * Increase
