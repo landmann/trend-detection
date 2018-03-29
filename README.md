@@ -12,6 +12,8 @@ Outputs (Labels)
 * Decrease
 * Neutral
 
+To obtain actual data, please post an issue on this repo and we'll send it your way!
+
 ## Contributions
 
 1. Curate a dataset containing 125,000 graphs of varying styles, functions, and trends using MatPlotlib.
@@ -35,7 +37,7 @@ Outputs (Labels)
 The following graphs are labeled 'increasing', 'neutral', and 'decreasing', respectively.
 ![image](graphs.png)
 
-Test set contains images with more variation and noise.
+Test set contains images images scraped from the Internet by Googling. They come with a lot more variation and noise. These were manually labeled by us to maintain consistency.
 ![image](test_graphs.png)
 
 ## References
